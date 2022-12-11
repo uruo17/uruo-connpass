@@ -1,4 +1,5 @@
 # data_collector
+<<<<<<< HEAD
 メイン処理
 
 # utilities
@@ -9,6 +10,9 @@ connpass APIを利用して、connpassから希望のキーワードを含む勉
 
 # doorkeeper_list_collector
 Doorkeeper APIを利用して、Doorkeeperから希望のキーワードを含む勉強会を取得する
+=======
+connpassとDoorkeeper(開発中)のAPIを利用して、希望のキーワードを含む勉強会(オンライン)を取得し、スプレッドシートに書き込む
+>>>>>>> f58b8f589f70da44f1e6893ed4e4eaba3263615f
 
 ## 補足事項
 
