@@ -23,3 +23,4 @@ Doorkeeper APIを利用して、Doorkeeperから希望のキーワードを含�
 |SPREAD_SHEET_ID|スプレッドシートのID(/spreadsheets/d/xxxxx/edit)のxxxxx|
 ### 関連記事
 - https://uruo.hatenablog.com/entry/2022/12/06/064412
+- https://uruo.hatenablog.com/entry/2022/12/12/090651
